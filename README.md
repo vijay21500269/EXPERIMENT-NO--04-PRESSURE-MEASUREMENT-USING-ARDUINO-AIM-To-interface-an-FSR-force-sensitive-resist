@@ -2,7 +2,7 @@
 
 
 ## AIM: 
-To interface an FSR(force sensitive resistor) and scale the output voltage obtained to pressure applied 
+To interface an FSR(force sensitive resistor) and measure the force applied,indicate the change in force applied using LED's.
  
 ### COMPONENTS REQUIRED:
 1.	FSR  (force sensitive resistor)
