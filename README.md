@@ -155,6 +155,8 @@ void loop()
 ![image](https://user-images.githubusercontent.com/36288975/163533136-5f8d00f2-8456-4d46-b243-d94d45f83eee.png)
 
 ### TABLE -02 OUTPUT VOLTAGES AND CHANGE IN RESISTANCES
+## output:
+![pic](https://github.com/vijay21500269/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/blob/main/Screenshot%20(26).png)
 
 
 
